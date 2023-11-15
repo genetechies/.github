@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We are genetechies, an emerging team serving our clients to embrace and leverage digital transformation service from all over the world
+We are genetechies, an emerging team serving our clients from all over the world to embrace and leverage digital transformation service
 
 <!--
 
